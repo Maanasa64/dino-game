@@ -6,7 +6,7 @@ First make sure you have python and pip installed. If not, look up the procedure
 
 1. Clone using the following command:
    ```
-   git clone
+   git clone https://github.com/Maanasa64/dino-game.git
    ```
 
 2. Download dependencies using the followiung command:
@@ -16,4 +16,4 @@ First make sure you have python and pip installed. If not, look up the procedure
 
 3. Run the program and play the game. You can replay as many times as you want. Press the spacebar to jump over the cacti and try beating your high score!!
 
-###Enjoy!
+### Enjoy!
