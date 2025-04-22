@@ -1,4 +1,4 @@
-# dino-game
+# 🦖 Dino Game - Chrome Dino Clone
 
 ## Intructions:
 
